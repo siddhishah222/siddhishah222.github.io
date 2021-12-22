@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Platform_IT.github.io/static/css/main.72070ec6.css",
-    "main.js": "/Platform_IT.github.io/static/js/main.52807319.js",
-    "static/media/Clock.png": "/Platform_IT.github.io/static/media/Clock.7d5cab1d7dcbea7c0b4a.png",
-    "static/media/Gilroy.ttf": "/Platform_IT.github.io/static/media/Gilroy.5b89a8df3b17dccdb73f.ttf",
-    "static/media/Gilroy-ExtraBold.otf": "/Platform_IT.github.io/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
-    "static/media/Gilroy-Light.otf": "/Platform_IT.github.io/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
-    "static/media/Dashbi.png": "/Platform_IT.github.io/static/media/Dashbi.3213aff173545bde944c.png",
-    "static/media/Header@2x.png": "/Platform_IT.github.io/static/media/Header@2x.566bbb50f5c1a3f0c865.png",
-    "static/media/Platform@2x.png": "/Platform_IT.github.io/static/media/Platform@2x.b5150665bab60d98fac7.png",
-    "static/media/venturit.svg?vxyq6n": "/Platform_IT.github.io/static/media/venturit.0c8b90f8842fbc35b404.svg",
-    "static/media/venturit.eot?vxyq6n": "/Platform_IT.github.io/static/media/venturit.569a0bfb1e7bc4f570fa.eot",
-    "static/media/venturit.woff?vxyq6n": "/Platform_IT.github.io/static/media/venturit.d1ceac77b83a2fb09132.woff",
-    "static/media/venturit.ttf?vxyq6n": "/Platform_IT.github.io/static/media/venturit.bb6325271b285e63450e.ttf",
-    "index.html": "/Platform_IT.github.io/index.html",
-    "main.72070ec6.css.map": "/Platform_IT.github.io/static/css/main.72070ec6.css.map",
-    "main.52807319.js.map": "/Platform_IT.github.io/static/js/main.52807319.js.map"
+    "main.css": "/static/css/main.321fa5af.css",
+    "main.js": "/static/js/main.1169dd49.js",
+    "static/media/Clock.png": "/static/media/Clock.7d5cab1d7dcbea7c0b4a.png",
+    "static/media/Gilroy.ttf": "/static/media/Gilroy.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-ExtraBold.otf": "/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
+    "static/media/Gilroy-Light.otf": "/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "static/media/Dashbi.png": "/static/media/Dashbi.3213aff173545bde944c.png",
+    "static/media/Header@2x.png": "/static/media/Header@2x.566bbb50f5c1a3f0c865.png",
+    "static/media/Platform@2x.png": "/static/media/Platform@2x.b5150665bab60d98fac7.png",
+    "static/media/venturit.svg?vxyq6n": "/static/media/venturit.0c8b90f8842fbc35b404.svg",
+    "static/media/venturit.eot?vxyq6n": "/static/media/venturit.569a0bfb1e7bc4f570fa.eot",
+    "static/media/venturit.woff?vxyq6n": "/static/media/venturit.d1ceac77b83a2fb09132.woff",
+    "static/media/venturit.ttf?vxyq6n": "/static/media/venturit.bb6325271b285e63450e.ttf",
+    "index.html": "/index.html",
+    "main.321fa5af.css.map": "/static/css/main.321fa5af.css.map",
+    "main.1169dd49.js.map": "/static/js/main.1169dd49.js.map"
   },
   "entrypoints": [
-    "static/css/main.72070ec6.css",
-    "static/js/main.52807319.js"
+    "static/css/main.321fa5af.css",
+    "static/js/main.1169dd49.js"
   ]
 }
